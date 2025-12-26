@@ -1,4 +1,5 @@
 ## 👋 Hi, I'm Avneesh Mishra
+📍 Noida, India | Open to Remote Opportunities
 
 Full-Stack Developer focused on building scalable web applications, REST APIs, and real-world integrations.
 
