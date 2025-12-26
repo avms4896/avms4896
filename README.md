@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Avneesh Mishra
 
-Full-Stack Developer with experience in building scalable web applications, REST APIs, and real-world integrations.
+Full-Stack Developer focused on building scalable web applications, REST APIs, and real-world integrations.
 
 ### 💻 Tech Stack
 - **Backend:** PHP (Laravel), Node.js, Express.js
